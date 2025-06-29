@@ -1,0 +1,18 @@
+{
+    "tool_name": "bedtools",
+    "tool_version": "latest",
+    "ToolName": "Bedtools",
+    "TOOL_NAME": "BEDTOOLS",
+    "tool_description": "genome arithmetic and interval operations",
+    "tool_main_description": "Perform various genome arithmetic operations like intersection, union, merge, etc.",
+    "tool_main_functionality": "perform genome arithmetic operations on genomic intervals",
+    "input_extension": "bed",
+    "param_name": "operation",
+    "param_type": "string",
+    "param_description": "Bedtools operation to perform (e.g., intersect, merge, sort)",
+    "feature_1": "Genome arithmetic operations (intersect, union, merge, etc.)",
+    "feature_2": "Support for BED, GFF, VCF, and other genomic formats",
+    "author_name": "Bio-MCP Team",
+    "author_email": "bio-mcp@example.com",
+    "github_user": "bio-mcp"
+}
